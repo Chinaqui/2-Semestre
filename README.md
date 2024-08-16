@@ -1,4 +1,4 @@
-Este repositório contém projetos e atividades desenvolvidas ao longo do meu curso de graduação. Ele serve como um portfólio e uma forma de acompanhar meu progresso durante o tempo na faculdade.
+Este repositório contém projetos e atividades desenvolvidas ao longo da minha faculdade. Ele serve como um portfólio e uma forma de acompanhar meu progresso durante o tempo na faculdade.
 
 Este repositório é dedicado aos meus estudos e projetos acadêmicos. Ele contém:
 
