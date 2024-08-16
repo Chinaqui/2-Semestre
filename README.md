@@ -5,7 +5,7 @@ Este repositório é dedicado aos meus estudos e projetos acadêmicos. Ele cont�
 - Exercícios de laboratório
 - Anotações de aula
  
-Este repositório pode conter projetos utilizando diversas tecnologias, como:
+Este repositório pode conter projetos utilizando diversas linguagens, como:
 
 - **Linguagens:** C++, HTML, CSS e etc.
   
