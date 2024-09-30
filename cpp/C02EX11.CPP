@@ -1,5 +1,3 @@
-// C02EX11.CPP
-
 #include <iostream>
 
 using namespace std;
