@@ -1,1 +1,1 @@
-Esses exercícios foram feitos em sala junto com o professor.
+Esses exercícios foram realizados em sala de aula com a orientação do professor, sendo adaptados do formato original em português estruturado, utilizado no primeiro semestre, para a linguagem de programação C++.
